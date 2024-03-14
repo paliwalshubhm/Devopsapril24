@@ -1,0 +1,10 @@
+hello sir
+this java code testing
+class A{
+ public static void main{string a[])
+{
+
+system.out.prinln("hello");
+}
+}
+
